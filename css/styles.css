@@ -8,13 +8,9 @@
     width: 100%;
 }
 #pubnub-logo-img {
-    background: url(../img/pubnub.png);
-    display: inline-block;
-    background-size: 128px 28px;
-    width: 128px;
-    height: 28px;
-    background-repeat: no-repeat;
-    opacity: 0.7;
+    
+    display: none;
+    
 }
 #pubnub-relative,
 .pubnub-relative {
@@ -49,7 +45,6 @@
     font-family: "Helvetica Neue";
     outline: 0;
     border-color: inherit;
-    -webkit-box-shadow: none;
     box-shadow: none;
 }
 #pubnub-chat-output div {
