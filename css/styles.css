@@ -7,6 +7,9 @@
     top: -120px;
     width: 100%;
 }
+body{
+padding-top: 100px;
+}
 #pubnub-logo-img {
     
     display: none;
@@ -238,4 +241,8 @@
     padding : 2% 2% 2% 2%;
 
 
+}
+
+.navbar-brand>img{
+display: inline;
 }
