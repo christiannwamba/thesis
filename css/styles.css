@@ -96,8 +96,10 @@ padding-top: 100px;
 /* Video Display */
 /* =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= */
 #video-border {
+/*
     padding: 10px;
     margin: 20px 0px;
+*/
     overflow: hidden;
 }
 #video-display {
@@ -123,9 +125,11 @@ padding-top: 100px;
     height: 300px;
 }
 #video-thumbnail {
+/*
     position: absolute;
     top: -180px;
     right: 10px;
+*/
 }
 #video-thumbnail img {
     width: 120px;
